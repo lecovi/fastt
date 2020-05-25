@@ -21,3 +21,10 @@ poetry run python fastt/cli.py FILENAME
 ```bash
 poetry run python fastt/cli.py --help
 ```
+
+# TODO
+
+- Publicar en PyPI con poetry
+- Crear como ejecutable
+- Soportar otros motores de traducción: [Yandex](https://translate.yandex.com/) (?)
+- Manejo de errores
